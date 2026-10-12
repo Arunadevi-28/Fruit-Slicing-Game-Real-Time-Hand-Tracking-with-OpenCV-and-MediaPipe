@@ -1,0 +1,66 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
+*.code-workspace
+
+# ==============================
+# IDE / Editor files
+# ==============================
+
+.idea/
+*.swp
+*.swo
+*~
+
+# ==============================
+# Operating System files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.temp
+*.log
+
+# ==============================
+# Python cache / temporary files
+# ==============================
+
+*.pyo
+*.pyd
